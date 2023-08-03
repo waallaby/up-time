@@ -23,11 +23,11 @@
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "71.38%",
-    "uptimeDay": "71.38%",
-    "uptimeWeek": "71.38%",
-    "uptimeMonth": "71.38%",
-    "uptimeYear": "71.38%",
+    "uptime": "71.02%",
+    "uptimeDay": "71.02%",
+    "uptimeWeek": "71.02%",
+    "uptimeMonth": "71.02%",
+    "uptimeYear": "71.02%",
     "time": 1095,
     "timeDay": 1095,
     "timeWeek": 1095,
@@ -43,19 +43,17 @@
     "icon": "https://tv.waallaby.net/favicon.ico",
     "slug": "dsm",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1345,
     "timeDay": 1345,
     "timeWeek": 1345,
     "timeMonth": 1345,
     "timeYear": 1345,
-    "dailyMinutesDown": {
-      "2023-08-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -63,19 +61,17 @@
     "icon": "https://tv.waallaby.net/favicon.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1355,
     "timeDay": 1355,
     "timeWeek": 1355,
     "timeMonth": 1355,
     "timeYear": 1355,
-    "dailyMinutesDown": {
-      "2023-08-03": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -83,19 +79,17 @@
     "icon": "https://movies.waallaby.net/favicon.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1568,
     "timeDay": 1568,
     "timeWeek": 1568,
     "timeMonth": 1568,
     "timeYear": 1568,
-    "dailyMinutesDown": {
-      "2023-08-03": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prowlarr",
@@ -141,16 +135,18 @@
     "icon": "https://torrent.waallaby.net/favicon.ico",
     "slug": "u-torrent",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "61.34%",
+    "uptimeDay": "61.34%",
+    "uptimeWeek": "61.34%",
+    "uptimeMonth": "61.34%",
+    "uptimeYear": "61.34%",
     "time": 1029,
     "timeDay": 1029,
     "timeWeek": 1029,
     "timeMonth": 1029,
     "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   }
 ]
