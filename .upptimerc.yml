@@ -11,22 +11,17 @@ sites:
     icon: https://plex.tv/favicon.ico
   - name: DSM
     url: https://admin.waallaby.net
-    icon: https://tv.waallaby.net/favicon.ico
+    icon: https://admin.waallaby.net/webman/favicon.ico
   - name: Sonarr
     url: https://tv.waallaby.net/
-    icon: https://tv.waallaby.net/favicon.ico
   - name: Radarr
     url: https://movies.waallaby.net/
-    icon: https://movies.waallaby.net/favicon.ico
   - name: Prowlarr
     url: https://index.waallaby.net/
-    icon: https://index.waallaby.net/favicon.ico
   - name: Home Assistant
     url: https://assistant.waallaby.net/
-    icon: https://assistant.waallaby.net/favicon.ico
   - name: uTorrent
     url: https://torrent.waallaby.net/
-    icon: https://torrent.waallaby.net/favicon.ico
     
 
 status-website:
@@ -39,8 +34,8 @@ status-website:
   # faviconsvg:
   name: Live Status | Waallaby-Net Services
   theme: night
-  introTitle: 
-  introMessage:
+  # introTitle: 
+  # introMessage:
   navbar:
     - title: Status
       href: /
