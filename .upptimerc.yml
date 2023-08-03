@@ -12,15 +12,15 @@ sites:
   - name: DSM
     url: https://admin.waallaby.net
     icon: https://admin.waallaby.net/webman/favicon.ico
+  - name: Home Assistant
+    url: https://assistant.waallaby.net/
   - name: Sonarr
     url: https://tv.waallaby.net/
   - name: Radarr
     url: https://movies.waallaby.net/
   - name: Prowlarr
     url: https://index.waallaby.net/
-  - name: Home Assistant
-    url: https://assistant.waallaby.net/
-  - name: uTorrent
+  - name: qBit
     url: https://torrent.waallaby.net/
     
 
