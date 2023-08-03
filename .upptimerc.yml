@@ -4,10 +4,10 @@ repo: up-time # The name of this repository
 
 sites:
   - name: Requests | Waallaby-Net
-    url: https://requests.waallaby.net
+    url: https://request.waallaby.net/
   - name: Plex
     url: https://plex.waallaby.net/identity
-  - name: Test Broken Site
+  - name: Test (Broken Site)
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
