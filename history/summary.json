@@ -4,19 +4,19 @@
     "url": "https://request.waallaby.net/",
     "icon": "https://request.waallaby.net/favicon.ico",
     "slug": "waallaby-net-requests",
-    "status": "up",
-    "uptime": "90.92%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "90.92%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "90.92%",
+    "status": "down",
+    "uptime": "68.20%",
+    "uptimeDay": "68.20%",
+    "uptimeWeek": "68.20%",
+    "uptimeMonth": "68.20%",
+    "uptimeYear": "68.20%",
     "time": 1619,
     "timeDay": 1619,
     "timeWeek": 1619,
     "timeMonth": 1619,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2023-08-04": 3
+      "2023-08-04": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://plex.waallaby.net/identity",
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
-    "uptime": "95.61%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "95.61%",
-    "uptimeYear": "95.61%",
+    "status": "down",
+    "uptime": "74.06%",
+    "uptimeDay": "74.06%",
+    "uptimeWeek": "74.06%",
+    "uptimeMonth": "74.06%",
+    "uptimeYear": "74.06%",
     "time": 923,
     "timeDay": 923,
     "timeWeek": 923,
     "timeMonth": 923,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-08-04": 1
+      "2023-08-04": 14
     }
   },
   {
@@ -44,18 +44,20 @@
     "url": "https://admin.waallaby.net",
     "icon": "https://admin.waallaby.net/webman/favicon.ico",
     "slug": "dsm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
     "time": 1085,
     "timeDay": 1085,
     "timeWeek": 1085,
     "timeMonth": 1085,
     "timeYear": 1085,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 10
+    }
   },
   {
     "name": "Home Assistant",
@@ -80,55 +82,59 @@
     "url": "https://tv.waallaby.net/",
     "icon": "https://icons.duckduckgo.com/ip3/tv.waallaby.net.ico",
     "slug": "sonarr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 2064,
     "timeDay": 2064,
     "timeWeek": 2064,
     "timeMonth": 2064,
     "timeYear": 2064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 8
+    }
   },
   {
     "name": "Radarr",
     "url": "https://movies.waallaby.net/",
     "icon": "https://icons.duckduckgo.com/ip3/movies.waallaby.net.ico",
     "slug": "radarr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 3520,
     "timeDay": 3520,
     "timeWeek": 3520,
     "timeMonth": 3520,
     "timeYear": 3520,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 3
+    }
   },
   {
     "name": "Prowlarr",
     "url": "https://index.waallaby.net/",
     "icon": "https://icons.duckduckgo.com/ip3/index.waallaby.net.ico",
     "slug": "prowlarr",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 2256,
     "timeDay": 2256,
     "timeWeek": 2256,
     "timeMonth": 2256,
     "timeYear": 2256,
     "dailyMinutesDown": {
-      "2023-08-03": 1
+      "2023-08-04": 2
     }
   },
   {
