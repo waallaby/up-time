@@ -22,18 +22,20 @@
     "url": "https://plex.waallaby.net/identity",
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "77.39%",
+    "uptimeDay": "77.39%",
+    "uptimeWeek": "77.39%",
+    "uptimeMonth": "77.39%",
+    "uptimeYear": "77.39%",
     "time": 1015,
     "timeDay": 1015,
     "timeWeek": 1015,
     "timeMonth": 1015,
     "timeYear": 1015,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 4
+    }
   },
   {
     "name": "DSM",
@@ -94,18 +96,20 @@
     "url": "https://movies.waallaby.net/",
     "icon": "https://icons.duckduckgo.com/ip3/movies.waallaby.net.ico",
     "slug": "radarr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 4370,
     "timeDay": 4370,
     "timeWeek": 4370,
     "timeMonth": 4370,
     "timeYear": 4370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 2
+    }
   },
   {
     "name": "Prowlarr",
@@ -133,18 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrent.waallaby.net.ico",
     "slug": "q-bit",
     "status": "down",
-    "uptime": "33.10%",
-    "uptimeDay": "33.10%",
-    "uptimeWeek": "33.10%",
-    "uptimeMonth": "33.10%",
-    "uptimeYear": "33.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4021,
     "timeDay": 4021,
     "timeWeek": 4021,
     "timeMonth": 4021,
     "timeYear": 4021,
-    "dailyMinutesDown": {
-      "2023-08-04": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
