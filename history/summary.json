@@ -5,17 +5,19 @@
     "icon": "https://request.waallaby.net/favicon.ico",
     "slug": "waallaby-net-requests",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2164,
-    "timeDay": 2164,
-    "timeWeek": 2164,
-    "timeMonth": 2164,
-    "timeYear": 2164,
-    "dailyMinutesDown": {}
+    "uptime": "90.92%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "90.92%",
+    "time": 1619,
+    "timeDay": 1619,
+    "timeWeek": 1619,
+    "timeMonth": 1619,
+    "timeYear": 1619,
+    "dailyMinutesDown": {
+      "2023-08-04": 3
+    }
   },
   {
     "name": "Plex Server",
@@ -23,18 +25,18 @@
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "63.37%",
-    "uptimeDay": "63.37%",
-    "uptimeWeek": "63.37%",
-    "uptimeMonth": "63.37%",
-    "uptimeYear": "63.37%",
-    "time": 999,
-    "timeDay": 999,
-    "timeWeek": 999,
-    "timeMonth": 999,
-    "timeYear": 999,
+    "uptime": "95.61%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "95.61%",
+    "uptimeYear": "95.61%",
+    "time": 923,
+    "timeDay": 923,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-08-04": 9
+      "2023-08-04": 1
     }
   },
   {
@@ -48,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1153,
-    "timeDay": 1153,
-    "timeWeek": 1153,
-    "timeMonth": 1153,
-    "timeYear": 1153,
+    "time": 1085,
+    "timeDay": 1085,
+    "timeWeek": 1085,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1271,
-    "timeWeek": 1271,
-    "timeMonth": 1271,
-    "timeYear": 1271,
+    "time": 1165,
+    "timeDay": 1165,
+    "timeWeek": 1165,
+    "timeMonth": 1165,
+    "timeYear": 1165,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2219,
-    "timeDay": 2219,
-    "timeWeek": 2219,
-    "timeMonth": 2219,
-    "timeYear": 2219,
+    "time": 2064,
+    "timeDay": 2064,
+    "timeWeek": 2064,
+    "timeMonth": 2064,
+    "timeYear": 2064,
     "dailyMinutesDown": {}
   },
   {
@@ -97,19 +99,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/movies.waallaby.net.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 3879,
-    "timeDay": 3879,
-    "timeWeek": 3879,
-    "timeMonth": 3879,
-    "timeYear": 3879,
-    "dailyMinutesDown": {
-      "2023-08-04": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3520,
+    "timeDay": 3520,
+    "timeWeek": 3520,
+    "timeMonth": 3520,
+    "timeYear": 3520,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prowlarr",
@@ -122,11 +122,11 @@
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 2584,
-    "timeDay": 2584,
-    "timeWeek": 2584,
-    "timeMonth": 2584,
-    "timeYear": 2584,
+    "time": 2256,
+    "timeDay": 2256,
+    "timeWeek": 2256,
+    "timeMonth": 2256,
+    "timeYear": 2256,
     "dailyMinutesDown": {
       "2023-08-03": 1
     }
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4021,
-    "timeDay": 4021,
-    "timeWeek": 4021,
-    "timeMonth": 4021,
-    "timeYear": 4021,
+    "time": 3706,
+    "timeDay": 3706,
+    "timeWeek": 3706,
+    "timeMonth": 3706,
+    "timeYear": 3706,
     "dailyMinutesDown": {}
   }
 ]
