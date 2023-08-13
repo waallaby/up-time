@@ -4,24 +4,25 @@ repo: up-time # The name of this repository
 
 sites:
   - name: Waallaby-Net Requests
-    url: https://request.waallaby.net/
-    icon: https://request.waallaby.net/favicon.ico
+    url: $REQUEST
+    icon: $REQUEST/favicon.ico
   - name: Plex Server
-    url: https://plex.waallaby.net/identity
+    url: $PLEX
     icon: https://plex.tv/favicon.ico
   - name: DSM
-    url: https://admin.waallaby.net
-    icon: https://admin.waallaby.net/webman/favicon.ico
+    url: $DSM
+    icon: $DSM/webman/favicon.ico
+    href: /
   - name: Home Assistant
-    url: https://assistant.waallaby.net/
+    url: $ASSISTANT
   - name: Sonarr
-    url: https://tv.waallaby.net/
+    url: $SONARR
   - name: Radarr
-    url: https://movies.waallaby.net/
+    url: $RADARR
   - name: Prowlarr
-    url: https://index.waallaby.net/
+    url: $PROWLARR
   - name: qBit
-    url: https://torrent.waallaby.net/
+    url: $TORRENT
     
 
 status-website:
@@ -29,8 +30,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.waallaby.net
   # baseUrl: /up-time
-  logoUrl: https://request.waallaby.net/logo_full.svg
-  favicon: https://request.waallaby.net/favicon.ico
+  logoUrl: $REQUEST/logo_full.svg
+  favicon: $REQUEST/favicon.ico
   # faviconsvg:
   name: Live Status | Waallaby-Net Services
   theme: night
