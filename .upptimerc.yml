@@ -3,16 +3,16 @@ owner: waallaby # Your GitHub organization or username, where this repository li
 repo: up-time # The name of this repository
 
 sites:
-  - name: Requests | Waallaby-Net
+  - name: 'Requests | Waallaby-Net'
     url: $REQUEST
     icon: https://request.waallaby.net/favicon.ico
-  - name: Plex Server | Waallaby-Net
+  - name: 'Plex Server | Waallaby-Net'
     url: $PLEX
     icon: https://plex.tv/favicon.ico
-  - name: DSM | Synology
+  - name: 'DSM | Synology'
     url: $DSM
     icon: https://admin.waallaby.net/webman/favicon.ico
-  - name: Home Assistant
+  - name: 'Home Assistant'
     url: $ASSISTANT
     icon: https://assistant.waallaby.net/static/icons/favicon.ico
   - name: Sonarr
@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://request.waallaby.net/logo_full.svg
   favicon: https://request.waallaby.net/favicon.ico
   # faviconsvg:
-  name: Live Status | Waallaby-Net Services
+  name: 'Live Status | Waallaby-Net Services'
   theme: night
   # introTitle: 
   # introMessage:
