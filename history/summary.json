@@ -22,19 +22,19 @@
     "url": "$PLEX",
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server-waallaby-net",
-    "status": "down",
-    "uptime": "68.70%",
-    "uptimeDay": "79.94%",
-    "uptimeWeek": "59.71%",
-    "uptimeMonth": "68.70%",
-    "uptimeYear": "68.70%",
-    "time": 1082,
-    "timeDay": 1082,
-    "timeWeek": 1063,
-    "timeMonth": 1082,
-    "timeYear": 1082,
+    "status": "up",
+    "uptime": "68.07%",
+    "uptimeDay": "56.72%",
+    "uptimeWeek": "56.39%",
+    "uptimeMonth": "68.07%",
+    "uptimeYear": "68.07%",
+    "time": 1081,
+    "timeDay": 1064,
+    "timeWeek": 1061,
+    "timeMonth": 1081,
+    "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-09-07": 252,
+      "2023-09-07": 586,
       "2023-09-06": 37,
       "2023-09-05": 874,
       "2023-09-04": 686,
@@ -84,18 +84,18 @@
     "icon": "https://assistant.waallaby.net/static/icons/favicon.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.09%",
+    "uptimeDay": "67.94%",
+    "uptimeWeek": "95.42%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.09%",
     "time": 873,
     "timeDay": 545,
     "timeWeek": 964,
     "timeMonth": 930,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2023-09-07": 127
+      "2023-09-07": 462
     }
   },
   {
@@ -104,18 +104,18 @@
     "icon": "https://tv.waallaby.net/Content/Images/Icons/favicon-16x16.png",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.32%",
+    "uptimeDay": "76.12%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.32%",
     "time": 1388,
     "timeDay": 1051,
     "timeWeek": 1300,
     "timeMonth": 1402,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2023-09-07": 9
+      "2023-09-07": 344
     }
   },
   {
@@ -124,18 +124,18 @@
     "icon": "https://movies.waallaby.net/Content/Images/Icons/favicon-16x16.png",
     "slug": "radarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.34%",
+    "uptimeDay": "76.75%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.34%",
     "time": 1553,
     "timeDay": 1235,
     "timeWeek": 1377,
     "timeMonth": 1384,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 335
     }
   },
   {
@@ -144,18 +144,18 @@
     "icon": "https://index.waallaby.net/Content/Images/Icons/favicon-16x16.png",
     "slug": "prowlarr",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.30%",
+    "uptimeDay": "75.47%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.30%",
     "time": 1402,
     "timeDay": 1548,
     "timeWeek": 1333,
     "timeMonth": 1393,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2023-09-07": 19
+      "2023-09-07": 353
     }
   },
   {
