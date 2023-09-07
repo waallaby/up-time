@@ -23,18 +23,18 @@
     "icon": "https://plex.tv/favicon.ico",
     "slug": "plex-server-waallaby-net",
     "status": "down",
-    "uptime": "68.73%",
-    "uptimeDay": "81.23%",
-    "uptimeWeek": "59.89%",
-    "uptimeMonth": "68.73%",
-    "uptimeYear": "68.73%",
+    "uptime": "68.72%",
+    "uptimeDay": "80.56%",
+    "uptimeWeek": "59.80%",
+    "uptimeMonth": "68.72%",
+    "uptimeYear": "68.72%",
     "time": 1082,
     "timeDay": 1082,
     "timeWeek": 1063,
     "timeMonth": 1082,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2023-09-07": 234,
+      "2023-09-07": 243,
       "2023-09-06": 37,
       "2023-09-05": 874,
       "2023-09-04": 686,
@@ -84,18 +84,18 @@
     "icon": "https://assistant.waallaby.net/static/icons/favicon.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.77%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.77%",
     "time": 873,
     "timeDay": 545,
     "timeWeek": 964,
     "timeMonth": 930,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2023-09-07": 109
+      "2023-09-07": 118
     }
   },
   {
@@ -103,18 +103,20 @@
     "url": "$SONARR",
     "icon": "https://tv.waallaby.net/Content/Images/Icons/favicon-16x16.png",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1400,
-    "timeDay": 1325,
-    "timeWeek": 1375,
-    "timeMonth": 1417,
-    "timeYear": 1400,
-    "dailyMinutesDown": {}
+    "time": 1388,
+    "timeDay": 1051,
+    "timeWeek": 1300,
+    "timeMonth": 1402,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   },
   {
     "name": "Radarr",
@@ -140,18 +142,18 @@
     "icon": "https://index.waallaby.net/Content/Images/Icons/favicon-16x16.png",
     "slug": "prowlarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1402,
     "timeDay": 1548,
     "timeWeek": 1333,
     "timeMonth": 1393,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 10
     }
   },
   {
