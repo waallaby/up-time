@@ -1,7 +1,7 @@
 url: $TORRENT
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2023-12-06T23:17:59.319Z
+status: down
+code: 530
+responseTime: 42
+lastUpdated: 2023-12-07T04:49:18.006Z
 startTime: 2023-08-04T04:04:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
