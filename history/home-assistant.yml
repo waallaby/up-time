@@ -1,7 +1,7 @@
 url: $ASSISTANT
-status: down
-code: 530
-responseTime: 135
-lastUpdated: 2024-05-03T03:41:38.656Z
+status: up
+code: 200
+responseTime: 782
+lastUpdated: 2024-05-03T03:50:56.923Z
 startTime: 2023-08-03T05:18:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
