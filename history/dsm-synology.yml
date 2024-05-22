@@ -1,7 +1,7 @@
 url: $DSM
-status: down
-code: 530
-responseTime: 52
-lastUpdated: 2024-05-22T14:39:14.867Z
+status: up
+code: 200
+responseTime: 427
+lastUpdated: 2024-05-22T14:48:39.605Z
 startTime: 2023-08-13T04:57:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
